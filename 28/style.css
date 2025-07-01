@@ -78,18 +78,18 @@ table {
     margin: 0 auto 0 auto;
 }
 #dish1 img{
-    width: 100%;
+    width: 50%;
     height: 100%;
 }
 #dish2 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
 #dish3 img{
-    width: 100%;
+    width: 50%;
     height: 100%;
 }
 #dish4 img{
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
 }
